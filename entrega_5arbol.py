@@ -1,6 +1,5 @@
 from arbol_binario import Arbol
-from sys import getsizeof
-from cola import Cola
+from arbol import Arbol
 # 5. Dado un árbol con los nombre de los superhéroes y villanos de la saga Marvel 
 # Cinematic Universe (MCU), desarrollar un algoritmo que contemple lo siguiente:
 # a. además del nombre del superhéroe, en cada nodo del árbol se almacenará un campo 
